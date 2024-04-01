@@ -1,0 +1,11 @@
+[package]
+name = "flip-flop"
+version = "1.0.0"
+edition = "2021"
+description = "This library implements the flip-flop operator from Perl and Ruby as a Rust macro."
+license = "MIT OR Apache-2.0"
+documentation = "https://docs.rs/flip-flop"
+homepage = "https://github.com/utkarshkukreti/flip-flop.rs"
+repository = "https://github.com/utkarshkukreti/flip-flop.rs"
+
+[dependencies]
